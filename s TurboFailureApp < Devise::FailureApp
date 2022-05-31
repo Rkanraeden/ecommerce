@@ -1,0 +1,53 @@
+[33mcommit 14fa3ce2885818821a5bc5e217725cd2389d5810[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Rkanraeden <lecortezc@gmail.com>
+Date:   Tue May 31 19:02:14 2022 -0400
+
+    feat: Admin model with devise gem
+
+[33mcommit 6164efdc08c1d0f6f32c8864e092d953219d7c88[m
+Author: Rkanraeden <lecortezc@gmail.com>
+Date:   Tue May 31 18:57:16 2022 -0400
+
+    feat controller and wiew
+
+[33mcommit 9e18117ab47a1f06f80f2aa9de5333ac47c79a58[m
+Author: Rkanraeden <lecortezc@gmail.com>
+Date:   Mon May 30 21:13:23 2022 -0400
+
+    devise added
+
+[33mcommit 6b442cecfe145abbe479864cfedb7d467e6126c2[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Rkanraeden <lecortezc@gmail.com>
+Date:   Mon May 30 20:57:24 2022 -0400
+
+    doc seed added
+
+[33mcommit 20a5c9b4c941c9453b73986d5658a0644cd37431[m
+Author: Rkanraeden <lecortezc@gmail.com>
+Date:   Mon May 30 19:19:41 2022 -0400
+
+    join
+
+[33mcommit cedd425a72bddd178f3ab5bd1db4f0d9f66b9c48[m
+Author: Rkanraeden <lecortezc@gmail.com>
+Date:   Mon May 30 19:14:00 2022 -0400
+
+    :feat migration
+
+[33mcommit 9f28d2e758302ca9c60814fe746d9c93370dcfcf[m
+Author: Rkanraeden <lecortezc@gmail.com>
+Date:   Mon May 30 19:08:36 2022 -0400
+
+    feat: Product Model, view
+
+[33mcommit 145531d02173ccdc6ab9fcec63f0738844bb7ac9[m
+Author: Rkanraeden <lecortezc@gmail.com>
+Date:   Mon May 30 19:04:50 2022 -0400
+
+    feat: Category model, views and controller
+
+[33mcommit 39953626eafcb15688bff04fb15a28b9ce4819ad[m
+Author: Rkanraeden <lecortezc@gmail.com>
+Date:   Mon May 30 19:01:44 2022 -0400
+
+    first commit

@@ -5,6 +5,11 @@ class Order < ApplicationRecord
   #validations
   validates :number, uniqueness: true
 
+  #relations
+  has_many :order_items
+  has_many :products, through: :order_items
+
+
   def generate_number(size)
     self.number ||= loop do
       random = random_candidate(size)

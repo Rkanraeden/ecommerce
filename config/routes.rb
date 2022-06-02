@@ -7,9 +7,12 @@ Rails.application.routes.draw do
     resources :products
     resources :categories
   end
-  
-  # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
+
+  resource :cart, only: [:show, :update]
+end
+
+
+# Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
   # Defines the root path route ("/")
   # root "articles#index"
-end
